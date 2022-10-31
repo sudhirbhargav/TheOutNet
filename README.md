@@ -1,5 +1,4 @@
 # [THE HOME DEPOT](https://github.com/sudhirbhargav/TheOutNet)
-https://frabjous-empanada-4054d6.netlify.app
 <table>
 <tr>
 <td>
